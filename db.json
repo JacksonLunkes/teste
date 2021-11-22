@@ -1,0 +1,48 @@
+{
+  "users":[
+    {
+      "id":"23232",
+      "firstName":"Elisa",
+      "lastName":"Pereira",
+      "userName":"elisaperaira",
+      "indexRef":17,
+      "credentialAt":"2017-02-15T11:29:40799Z"
+    },
+    {
+      "id":"23454232",
+      "firstName":"Jackson",
+      "lastName":"Pereira",
+      "userName":"elisaperaira",
+      "indexRef":15,
+      "credentialAt":"2017-02-15T11:29:40799Z"
+    }
+  ],
+  "posts":[
+    {
+      "id": "1",
+      "tile":"kjfsjdgklsdhgjklhkl",
+      "body": "jdfkljfkldsjlkjfdhjhdsgj kd  iujiwerjmkerjp    jjet ",
+      "userid": "23232",
+      "indexRef":12,
+      "credentialAt":"2017-02-15T11:29:40799Z"
+    },
+    {
+      "id": "145",
+      "tile":"kjfsjdg454klsdhgjklhkl",
+      "body": "jdfkljfkldsjlkjfdhjhdsgj kd  iujiwerjmkerjp    jjet ",
+      "userid": "23232",
+      "indexRef":15,
+      "credentialAt":"2017-02-15T11:29:40799Z"
+    }
+  ],
+  "comments":[
+    {
+      "id": "2323223",
+      "comment":"kjfsjdgklsdhgjklhkl",
+      "userid": "23232",
+      "postId": "1",
+      "indexRef":12,
+      "credentialAt":"2017-02-15T11:29:40799Z"
+    }
+  ]
+}
